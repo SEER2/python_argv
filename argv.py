@@ -61,7 +61,9 @@ def usage():
 
 # main, read option and set global variables then choose func
 def main():
-
+    """
+    reads options and decides what to do
+    """
     global command
     global display_target
     global target
@@ -95,11 +97,17 @@ def main():
         func_target()
 
 def func():
+    """
+    just print
+    """
     print "-c : Get command"
 
 def func_target():
+    """
+    get the global variable and print
+    """
     global target
     print "-t: ", target
 
-#
+# start main func
 main()
