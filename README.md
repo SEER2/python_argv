@@ -6,4 +6,6 @@
 
 # Reference
 
-How to read options most come from*Black Hat Python* by Justin Seitz, and the annotations at the top of **argv.py** follows [*Matplotlib Animation Tutorial*](https://jakevdp.github.io/blog/2012/08/18/matplotlib-animation-tutorial/) example
+- How to read options most come from *Black Hat Python* by Justin Seitz
+- The annotations at the top of **argv.py** follows [*Matplotlib Animation Tutorial*](https://jakevdp.github.io/blog/2012/08/18/matplotlib-animation-tutorial/) example
+- The useage() display almostly follows both *Black Hat Python* by Justin Seitz and **man man** style
