@@ -6,7 +6,7 @@ Get Option from Command Example
 bulid time: 20171014
 author: seer
 email: li1234567890li@yeah.et
-website: http://molecule.site
+website: http://molecule.site/
 license: BSD
 
 Please feel free to use and modify this, but keep the above information. Thanks!
